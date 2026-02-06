@@ -61,9 +61,11 @@ To run the AI Operations Assistant, follow these steps:
 
 📸 Screenshots
 ================
-![Screenshot 1](<Screenshot (113)-1.png>)
-![Screenshot 2](<Screenshot (114)-1.png>)
-![Screenshot 3](<Screenshot (116)-1.png>) ![Screenshot 4](<Screenshot (117)-1.png>) ![Screenshot 5](<Screenshot (115)-1.png>)
+![Screenshot](<Screenshot (113)-1-1.png>)
+![Screenshot](<Screenshot (114)-1-1.png>) 
+![Screenshot](<Screenshot (116)-1-1.png>) 
+![Screenshot](<Screenshot (117)-1-1.png>)
+![Screenshot](<Screenshot (115)-1-1.png>)
 
 📦 API Reference
 ================
